@@ -77,9 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "modu": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+    "heimuer": {
+      "api": "https://xml02.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳资源"
     },
     "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
