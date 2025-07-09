@@ -77,9 +77,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "heimuer": {
-      "api": "https://xml02.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳资源"
+    "fengchao": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢"
     },
     "haohua": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
