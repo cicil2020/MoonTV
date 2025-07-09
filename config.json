@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "modu": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源"
     }
   }
 }
